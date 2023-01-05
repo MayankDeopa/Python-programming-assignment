@@ -1,1 +1,1 @@
-Ineuron python programming assignment
+Ineuron python programming questions given as the part of assignment.
